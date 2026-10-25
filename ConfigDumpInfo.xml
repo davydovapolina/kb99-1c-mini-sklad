@@ -34,7 +34,7 @@
 		<Metadata name="Document.Реализация.ManagerModule" id="39b09b75-f494-4216-8859-8c5052499cf9.2" configVersion="533fff5827abdf4e952cae600ce390e600000000"/>
 		<Metadata name="Document.Реализация.ObjectModule" id="39b09b75-f494-4216-8859-8c5052499cf9.0" configVersion="29f47b2c8cd5eb4eacf571819769240200000000"/>
 		<Metadata name="Language.Русский" id="bfa9ed54-4795-46b3-add7-f2fa9d30baa9" configVersion="bf965c04f3b0f94995eb9bf7c199a54f00000000"/>
-		<Metadata name="Subsystem.МиниСклад" id="53ae9133-3cd3-436c-81d4-d40b79024b56" configVersion="2815b5da9739534b85ba07be612df43600000000"/>
+		<Metadata name="Subsystem.МиниСклад" id="53ae9133-3cd3-436c-81d4-d40b79024b56" configVersion="86f71ace97c65740b2daaec3b149945200000000"/>
 		<Metadata name="Subsystem.МиниСклад.CommandInterface" id="53ae9133-3cd3-436c-81d4-d40b79024b56.1" configVersion="277eaf3e6eb54549ab86d7d102d4532200000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
