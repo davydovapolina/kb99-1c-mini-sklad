@@ -1861,7 +1861,7 @@
 		<Metadata name="Document.ПартииВСД.Form.ФормаДокумента" id="2b4bfe1d-474c-4216-b790-2e63b2d65ab0" configVersion="f16933a5da7e974caae187123bd7f73300000000"/>
 		<Metadata name="Document.ПартииВСД.Form.ФормаДокумента.Form" id="2b4bfe1d-474c-4216-b790-2e63b2d65ab0.0" configVersion="f6fd269033aa6347b3bdae24b22daa7600000000"/>
 		<Metadata name="Document.ПартииВСД.ObjectModule" id="8bbc329c-5cf1-4e9a-894c-7ccf42e026d2.0" configVersion="55feeb371740d54f8375fb57885eb98700000000"/>
-		<Metadata name="Document.Поступление" id="fe9c1918-0ac6-40f1-9d49-771bd2301f1d" configVersion="b2db06a834e67a488b059c499a85707b00000000">
+		<Metadata name="Document.Поступление" id="fe9c1918-0ac6-40f1-9d49-771bd2301f1d" configVersion="741188957d695848a5cad02d7042ff2d00000000">
 			<Metadata name="Document.Поступление.Attribute.Контрагент" id="3ae34cd4-25bd-4188-a8db-9b24859cf948"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Сумма" id="475a942c-0f28-4780-b81a-7cd49fbf0283"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Количество" id="495afd3e-e553-4f04-a613-0a884ca73e33"/>
@@ -1872,7 +1872,7 @@
 		<Metadata name="Document.Поступление.Form.ФормаДокумента" id="c1eb2b74-e915-44ae-b30f-5b433c413b48" configVersion="79e15973e94c1b48963202a8e024662900000000"/>
 		<Metadata name="Document.Поступление.Form.ФормаДокумента.Form" id="c1eb2b74-e915-44ae-b30f-5b433c413b48.0" configVersion="6da66f0653b7c04ba1959424a1cbc59100000000"/>
 		<Metadata name="Document.Поступление.ObjectModule" id="fe9c1918-0ac6-40f1-9d49-771bd2301f1d.0" configVersion="fd202813a2032c4ab9593702563bbb9e00000000"/>
-		<Metadata name="Document.Реализация" id="39b09b75-f494-4216-8859-8c5052499cf9" configVersion="ab3baf35bdbdb141bf02b959d996f40800000000">
+		<Metadata name="Document.Реализация" id="39b09b75-f494-4216-8859-8c5052499cf9" configVersion="b52aea8ad1d4764d93bdbdfd609df4f600000000">
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Сумма" id="04f30b36-06a8-414e-80a8-71f0a5621c6e"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары" id="28f8a735-aa84-4d37-b1c7-3405299529a2"/>
 			<Metadata name="Document.Реализация.TabularSection.Товары.Attribute.Количество" id="7add54c2-124e-4878-a77c-ad490dae1707"/>
