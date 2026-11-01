@@ -399,6 +399,7 @@
 			<Report>кб99_ОстаткиПартийПоНоменклатуре</Report>
 			<Report>кб99_ОтчетСписанияПартии</Report>
 			<Report>кб99_ПартииБезДокументаПоступления</Report>
+			<Report>ОборотыПоТоварам</Report>
 			<DataProcessor>Интеграция_ГИС_Меркурий</DataProcessor>
 			<DataProcessor>кб99_ЛабИсследования</DataProcessor>
 			<DataProcessor>кб99_НайтиПлощадки</DataProcessor>
